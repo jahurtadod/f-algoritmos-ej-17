@@ -1,0 +1,3 @@
+Ciclo Repetitivo:
+
+Un ciclo repetitivo es un ciclo que permite realizar operaciones de madera que se puedan repetir un determinado número de veces.
